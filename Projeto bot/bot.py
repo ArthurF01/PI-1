@@ -26,7 +26,7 @@ def cria_audio(audio):
     playsound('bot.mp3')
 
 tag = ['teste', 
-		'isso e um teste',]
+	'isso e um teste',]
 
 
 while True:
