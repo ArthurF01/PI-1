@@ -1,0 +1,1 @@
+Fazendo o bot responder
